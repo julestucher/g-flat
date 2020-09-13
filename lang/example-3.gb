@@ -1,0 +1,18 @@
+let x = C + E + G
+draw x
+play x
+let x = F + A + C
+draw x
+play x
+let x = C + E + G
+draw x
+play x
+let x = G + B + D
+draw x
+play x
+let x = G + B + F
+draw x
+play x
+let x = C + E + G
+draw x
+play x

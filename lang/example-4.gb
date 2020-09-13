@@ -1,0 +1,17 @@
+let c7 = (C + E + G + Bb)/2
+draw c7
+play c7
+let f7-9 = (F + G + A + C + E)/2
+draw f7-9
+play f7-9
+draw c7
+play c7
+let g7 = (G + B + D + F)/2
+draw g7
+play g7
+let f = (F + A + C)/2
+draw f
+play f
+let c = (C + E + G)/2
+draw c
+play c

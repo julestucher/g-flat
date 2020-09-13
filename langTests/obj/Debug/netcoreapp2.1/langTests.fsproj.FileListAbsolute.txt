@@ -1,0 +1,16 @@
+/Users/jtucher/Documents/18-19/CS334/cs334hw9-jtucher-maxstein5/testdir/langTests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/jtucher/Documents/18-19/CS334/cs334hw9-jtucher-maxstein5/testdir/langTests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/jtucher/Documents/18-19/CS334/cs334hw9-jtucher-maxstein5/testdir/langTests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/jtucher/Documents/18-19/CS334/cs334hw9-jtucher-maxstein5/testdir/langTests/bin/Debug/netcoreapp2.1/langTests.deps.json
+/Users/jtucher/Documents/18-19/CS334/cs334hw9-jtucher-maxstein5/testdir/langTests/bin/Debug/netcoreapp2.1/langTests.runtimeconfig.json
+/Users/jtucher/Documents/18-19/CS334/cs334hw9-jtucher-maxstein5/testdir/langTests/bin/Debug/netcoreapp2.1/langTests.runtimeconfig.dev.json
+/Users/jtucher/Documents/18-19/CS334/cs334hw9-jtucher-maxstein5/testdir/langTests/bin/Debug/netcoreapp2.1/langTests.dll
+/Users/jtucher/Documents/18-19/CS334/cs334hw9-jtucher-maxstein5/testdir/langTests/bin/Debug/netcoreapp2.1/langTests.pdb
+/Users/jtucher/Documents/18-19/CS334/cs334hw9-jtucher-maxstein5/testdir/langTests/bin/Debug/netcoreapp2.1/lang.dll
+/Users/jtucher/Documents/18-19/CS334/cs334hw9-jtucher-maxstein5/testdir/langTests/bin/Debug/netcoreapp2.1/lang.pdb
+/Users/jtucher/Documents/18-19/CS334/cs334hw9-jtucher-maxstein5/testdir/langTests/obj/Debug/netcoreapp2.1/langTests.fsprojAssemblyReference.cache
+/Users/jtucher/Documents/18-19/CS334/cs334hw9-jtucher-maxstein5/testdir/langTests/obj/Debug/netcoreapp2.1/langTests.AssemblyInfoInputs.cache
+/Users/jtucher/Documents/18-19/CS334/cs334hw9-jtucher-maxstein5/testdir/langTests/obj/Debug/netcoreapp2.1/langTests.AssemblyInfo.fs
+/Users/jtucher/Documents/18-19/CS334/cs334hw9-jtucher-maxstein5/testdir/langTests/obj/Debug/netcoreapp2.1/langTests.fsproj.CopyComplete
+/Users/jtucher/Documents/18-19/CS334/cs334hw9-jtucher-maxstein5/testdir/langTests/obj/Debug/netcoreapp2.1/langTests.dll
+/Users/jtucher/Documents/18-19/CS334/cs334hw9-jtucher-maxstein5/testdir/langTests/obj/Debug/netcoreapp2.1/langTests.pdb
